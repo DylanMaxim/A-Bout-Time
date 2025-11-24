@@ -1,2 +1,2 @@
 # A-Bout-Time
-An all-in-one fencing referee management app, combining Scoring, Time Tracking, Bout Tracking, Penalty Tracking and more.
+An all-in-one referee app for fencing, featuring scoring, time tracking, bout progression, penalty management, and more.
